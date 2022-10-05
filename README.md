@@ -1,7 +1,7 @@
 # Smart Behive Monitoring App 🐝
   
 ### ➡️ To work with this App:
-> First Connect Your Hardware components and code the Raspberry pi as given here []()
+> First Connect Your Hardware components and code the Raspberry pi as given here [Smart Beehive Raspberry Pi](https://github.com/Jony-Jas/smart-beehive-raspi)
 
 > Create a firebase project 
 
